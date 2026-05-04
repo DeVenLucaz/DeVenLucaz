@@ -9,7 +9,7 @@
 ### 📱 About Me
 I'm a **Vibe Coder** based in Pune, India 🇮🇳. I don't use a PC—I build games, music, and AI tools entirely on my smartphone. I believe that limited hardware shouldn't limit big ideas.
 
-- 🤖 **Current Focus:** Making local AI accessible via [LLAMdrop](https://github.com/ypatole035-ai/llamdrop).
+- 🤖 **Current Focus:** Making local AI accessible via [LLAMdrop](https://ypatole035-ai.github.io/LLAMdrop-landing/).
 - 🎮 **Projects:** Developing *MINEPATH* and *WORD HEIST* (Mobile-first gaming).
 - ✍️ **Writing:** Author of the novel *DAAYAN (बंधन)*.
 - 🌌 **Experiment:** Currently on a 30-day Lucid Dreaming challenge.
