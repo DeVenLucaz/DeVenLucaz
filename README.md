@@ -27,8 +27,8 @@ I'm a **Vibe Coder** based in Pune, India 🇮🇳. I don't use a PC—I build g
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ypatole035-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypatole035-ai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeVenLucaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeVenLucaz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
